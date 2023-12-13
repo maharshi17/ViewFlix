@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 301 301" xmlns="http://www.w3.org/2000/svg" width="301px" height="301px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"><defs><style id="ee-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700);</style><linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="652" y1="46" x2="652" y2="146">
+                <stop offset="0" style="stop-color: #0d4d78"/>
+                <stop offset="1" style="stop-color: #03121c"/>
+              </linearGradient><linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="652" y1="46" x2="652" y2="146" gradientTransform="matrix(0.9999926928524979, -0.003822345871501511, 0.006595447995813259, 1.7255006356834883, -0.29860602431485206, -30.880863227543777)">
+                <stop offset="0" style="stop-color: #0d4d78"/>
+                <stop offset="1" style="stop-color: #03121c"/>
+              </linearGradient></defs><rect id="ee-background" x="0" y="0" width="301" height="301" style="fill: white; fill-opacity: 0.12; pointer-events: none;" transform="matrix(1, 0, 0, 1, -11, 2)"/><g transform="matrix(2.999999965544159, 0, 0, 3, -1653.6170852589257, -44.15726852416992)"><g id="g-3" transform="matrix(1, 0, 0, 1, -50.611774444580135, -31.260213200247897)">
+	<g id="g-4">
+		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: url('#gradient-1'); fill-opacity: 1; stroke-opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 0; paint-order: fill;"/>
+	</g>
+</g></g><g transform="matrix(3.2677448302820267e-7, 1.581191897392273, -1.581191897392273, 3.2677448302820267e-7, 765.1195678710938, -642.5562744140625)"><g id="g-6" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<path class="st0" d="M509.4,349.5c-4.1-7.2-10.8-7.2-14.9,0L459.4,411c-4.1,7.2-0.7,13,7.6,13h70c8.2,0,11.7-5.9,7.6-13&#10;&#9;&#9;L509.4,349.5z" style="fill: rgb(255, 255, 255);" transform="matrix(1, 0, 0, 1, 0.6324347968578081, -2.529737171804868)"/>
+</g></g></svg>
